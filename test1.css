@@ -1,0 +1,58 @@
+
+#div1{
+    height:200px;
+    width:200px;
+    display: inline-block;
+    background-color: blue;
+    font-size: 42px;
+    text-align: center;
+}
+#div2{
+    height:200px;
+    text-align: center;
+    font-size: 42px;
+    width:200px;
+    display: inline-block;
+    background-color: red;
+
+}
+ 
+#div3{
+   
+    text-align: center;
+    display: inline-block;
+    height:200px;
+    width:200px;
+    background: no-repeat ;
+    background-size:cover;
+    background-color: pink;
+}
+
+#div4{
+height:200px;
+display: inline-block;
+background: no-repeat ;
+background-size:cover;
+width:200px;
+background-color: pink;
+
+}
+
+#div5{
+    height:200px;
+    background: no-repeat ;
+    background-size:cover;
+    display: inline-block;
+    width:200px;
+    background-color: pink;
+    
+ }
+
+#div6{
+        height:200px;
+        display: inline-block;
+        background: no-repeat ;
+    background-size:cover;
+        width:200px;
+        background-color: pink;
+ }

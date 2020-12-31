@@ -1,0 +1,57 @@
+#bag{
+    width:200px;
+    height:500px;
+    margin:0 auto;
+    background:url(bag.png) center no-repeat;
+    background-size:80%;
+}
+
+#bag.burst{
+   background: url('sand.gif') center no-repeat;
+    
+    background:cover;
+
+}
+
+#bag.bag1{
+    background: url(bag1.png) center no-repeat;
+
+    background-size: 80%;
+    
+}
+
+#bag.bag2{
+    background: url(bag2.png) center no-repeat;
+    background-size: 80%;
+}
+#bag.bag3{
+    background: url(bag3.png) center no-repeat;
+    background-size: 80%;
+}
+#bag.bag4{
+    background: url(bag4.png) center no-repeat;
+    background-size: 80%;
+}
+#bag.bag5{
+    background: url(bag5.png) center no-repeat;
+    background-size: 80%;
+}
+
+#bag-health{
+
+    width:200px;
+    border:2px solid #000;
+    margin:0 auto 20px auto;
+}
+
+#bag-health div{
+    height: 20px;
+    background:crimson;
+}
+
+#controls{
+    width:120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
